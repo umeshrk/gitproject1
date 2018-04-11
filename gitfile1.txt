@@ -1,0 +1,1 @@
+This is the first line that is added to the git file 1 under gitproject1.
